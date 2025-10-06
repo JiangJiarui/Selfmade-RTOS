@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.compilerPath": "F:/MinGW/bin/gcc.exe",
+    "files.associations": {
+        "list.h": "c",
+        "freertos.h": "c",
+        "portmacro.h": "c",
+        "task.h": "c",
+        "stm32f4xx.h": "c",
+        "bsp_usart.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
